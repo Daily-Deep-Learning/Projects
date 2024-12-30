@@ -175,15 +175,13 @@ To start the Streamlit app, run the following command:
 streamlit run app.py
 ```
 
-This will open a local web server (usually at `http://localhost:5000`), where you can interact with the hotel recommendation system.
+This will open a local web server (usually at `http://localhost:8501`), where you can interact with the hotel recommendation system.
 
 ### Screenshot
 
 Here is a screenshot of the Streamlit app interface:
 
-![Streamlit App Screenshot](./images/streamlit_screenshot.png)
-
-(*Note: Add a screenshot of your Streamlit app interface once it's ready.*)
+![Streamlit App Screenshot](./app.png)
 
 ---
 
